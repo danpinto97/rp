@@ -151,7 +151,7 @@ export default function LinkTemp() {
                 <Button variant="contained" color="secondary"
                   href='https://rallymarkets.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=RALLY&selectedIssue=RALLY-65'
                 >
-                  Grafana
+                  Jira
                 </Button>
               </CardActions>
             </Card>
