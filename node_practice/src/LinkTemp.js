@@ -11,7 +11,7 @@ import CardActionArea from '@material-ui/core/CardActionArea';
 import CardActions from '@material-ui/core/CardActions';
 import CardContent from '@material-ui/core/CardContent';
 import CardMedia from '@material-ui/core/CardMedia';
-import horse_link from './horse_link.jpg'
+
 const useStyles = makeStyles((theme) => ({
   root: {
     flexGrow: 1,
@@ -49,10 +49,10 @@ export default function LinkTemp() {
 
                   <Typography gutterBottom variant="h5" component="h2">
                     Rally Markets Knowledge Base
-          </Typography>
+                  </Typography>
                   <Typography variant="body2" color="textSecondary" component="p">
                     Click here for access to the Rally Markets Knowledge Base
-          </Typography>
+                  </Typography>
                 </CardContent>
               </CardActionArea>
               <CardActions>
@@ -60,7 +60,7 @@ export default function LinkTemp() {
                   href='http://wiki.rally.markets:3000/login'
                 >
                   Rally Markets
-              </Button>
+                </Button>
               </CardActions>
             </Card>
           </Grid>
@@ -79,10 +79,10 @@ export default function LinkTemp() {
 
                   <Typography gutterBottom variant="h5" component="h2">
                     Google Dashboard
-          </Typography>
+                  </Typography>
                   <Typography variant="body2" color="textSecondary" component="p">
                     Click here for access to the Rally Google Dashboard link
-          </Typography>
+                  </Typography>
                 </CardContent>
               </CardActionArea>
               <CardActions>
@@ -90,7 +90,7 @@ export default function LinkTemp() {
                   href='https://workspace.google.com/dashboard'
                 >
                   Google Dashboard
-        </Button>
+                </Button>
               </CardActions>
             </Card>
           </Grid>
@@ -110,10 +110,10 @@ export default function LinkTemp() {
 
                   <Typography gutterBottom variant="h5" component="h2">
                     Grafana
-          </Typography>
+                  </Typography>
                   <Typography variant="body2" color="textSecondary" component="p">
                     Click here for access to the Grafana Analytics link
-          </Typography>
+                  </Typography>
                 </CardContent>
               </CardActionArea>
               <CardActions>
@@ -121,7 +121,7 @@ export default function LinkTemp() {
                   href='http://grafana.rally.markets/d/yru6Tk9Gz/rally-overview?orgId=1'
                 >
                   Grafana
-        </Button>
+                </Button>
               </CardActions>
             </Card>
 
@@ -141,10 +141,10 @@ export default function LinkTemp() {
 
                   <Typography gutterBottom variant="h5" component="h2">
                     Jira
-          </Typography>
+                  </Typography>
                   <Typography variant="body2" color="textSecondary" component="p">
                     Click here for access to the Jira page
-          </Typography>
+                  </Typography>
                 </CardContent>
               </CardActionArea>
               <CardActions>
@@ -152,7 +152,7 @@ export default function LinkTemp() {
                   href='https://rallymarkets.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=RALLY&selectedIssue=RALLY-65'
                 >
                   Grafana
-        </Button>
+                </Button>
               </CardActions>
             </Card>
 
